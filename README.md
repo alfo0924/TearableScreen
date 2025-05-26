@@ -1,7 +1,7 @@
 
-<a href="https://alfo0924.github.io/TearableScreen/">TearableScreen</a>
+<a href="https://alfo0924.github.io/TearableScreen/">DraggableScreen</a>
 
-## TearableScreen 網站介紹
+## DraggableScreen 網站介紹
 
 **特點與優點**
 *   **互動性高:** 使用者可以直接與畫面元素互動，提供有趣的視覺回饋。
