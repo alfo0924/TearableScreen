@@ -6,6 +6,7 @@ body {
     justify-content: center;
     align-items: center;
     height: 100vh;
+    user-select: none;
 }
 
 .container {
@@ -24,4 +25,10 @@ body {
     height: 100%;
     object-fit: cover;
     cursor: grab;
+    will-change: transform;
+    transition: none;
+}
+
+#tearable:active {
+    cursor: grabbing;
 }
